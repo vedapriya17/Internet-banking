@@ -1,7 +1,10 @@
 # Internet-banking
 here is the internet banking management system website
+
 made using wordpress nd launched using xampp
+
 see how amazing it turned out!!👀
+
 ![Screenshot 2024-05-19 213811](https://github.com/vedapriya17/Internet-banking/assets/140573640/fe3963a8-5b3e-4bb6-be0f-2b2f13b761f4)
 ![Screenshot 2024-05-19 213744](https://github.com/vedapriya17/Internet-banking/assets/140573640/ba5ae195-58d5-4f4a-b66f-abd747c4f23f)
 ![Screenshot 2024-05-19 213727](https://github.com/vedapriya17/Internet-banking/assets/140573640/c78ada39-bfe5-46df-8c59-ed3b258a8b62)
