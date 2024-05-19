@@ -10,7 +10,7 @@ see how amazing it turned out!!👀
 ![Screenshot 2024-05-19 213727](https://github.com/vedapriya17/Internet-banking/assets/140573640/c78ada39-bfe5-46df-8c59-ed3b258a8b62)
 ![Screenshot 2024-05-19 213613](https://github.com/vedapriya17/Internet-banking/assets/140573640/133a3738-2223-4783-98ae-11e640a64333)
 ![Screenshot 2024-05-19 213556](https://github.com/vedapriya17/Internet-banking/assets/140573640/15930ce1-90eb-4596-97d2-41789c62a519)
-![Screenshot 2024-05-19 213418](https://github.com/vedapriya17/Internet-banking/assets/140573640/9bdbe892-1b91-49b5-b46
+
 ![Screenshot 2024-05-19 174817](https://github.com/vedapriya17/Internet-banking/assets/140573640/aed50728-1452-4f4d-b176-210f17f681c5)
 b-10ded76a3c11)
 
