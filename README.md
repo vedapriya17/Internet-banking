@@ -14,3 +14,10 @@ see how amazing it turned out!!👀
 ![Screenshot 2024-05-19 213454](https://github.com/vedapriya17/Internet-banking/assets/140573640/430753c9-15ff-4716-a6c1-e42712503426)
 ![Screenshot 2024-05-19 213418](https://github.com/vedapriya17/Internet-banking/assets/140573640/5820a5b5-44d8-457b-8ab3-615f95ccf1f4)
 
+## scan this QR for working of this website
+
+
+![qrcode_111466432_f48d69900f4a05ae611323d5605552ab (1)](https://github.com/vedapriya17/Internet-banking/assets/140573640/5dfa04ca-6a4e-4d3d-ab5f-740b5de6ceea)
+
+
+
